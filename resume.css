@@ -1,0 +1,34 @@
+
+.head1{
+    background-color: rgb(175, 152, 123);
+}
+.head2{
+    background-color: #090e31;
+}
+h4{
+    color: rgb(10, 10, 10);
+}
+p{
+    color: #090e31;
+}
+.na{
+    color: burlywood;
+}
+.into{
+    color: aliceblue;
+}
+.bob{
+    background-color: rgb(247, 240, 231);
+}
+.head6{
+    height: 40px;
+}
+.f{
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+
